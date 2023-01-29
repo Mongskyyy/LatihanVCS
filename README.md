@@ -15,4 +15,4 @@ Prodi : Teknik Informatika
 
 2.Setelah menginstall Git, Silahkan cek untuk melihat versi Git yang anda install dengan mengetik
 
-![img]gambar/1.png
+![Gambar 1](gambar/1.png)
